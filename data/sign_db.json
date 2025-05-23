@@ -1,0 +1,14 @@
+{
+    "simulated_hand_outline_features": {
+        "text": "Hello (Simulated Gesture)",
+        "audio": "data/audio/hello_simulated.mp3"
+    },
+    "specific_gesture_A_features": {
+        "text": "Thank You (Simulated Gesture A)",
+        "audio": "data/audio/thank_you_simulated_a.mp3"
+    },
+    "specific_gesture_B_features": {
+        "text": "Yes (Simulated Gesture B)",
+        "audio": "data/audio/yes_simulated_b.mp3"
+    }
+}
